@@ -1,0 +1,39 @@
+li:nth-child(1) {
+    color: blue; 
+    font-size: 50px;
+}
+
+li:nth-child(2) {
+    color: gray;
+}
+
+li:nth-child(3) {
+    font-size: 8px; 
+    color: green; 
+    font-style: italic;
+}
+
+li:nth-child(4) {
+    color: orange; 
+    font-weight: bold; 
+    text-align: right;
+}
+
+li:nth-child(5) {
+    color: pink; 
+    font-family: Tahoma; 
+    justify-content: center;
+}
+
+li:nth-child(6) {
+    text-decoration: underline; 
+    color: purple; 
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+li:nth-child(7) {
+    background-color: yellow; 
+    font-weight: bold; 
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive; 
+    line-height: 25px;
+}
