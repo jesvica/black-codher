@@ -10,4 +10,5 @@
 body {
     animation-name: pulse;
     animation-duration: 10s;
+    animation-iteration-count: infinite;
 }
