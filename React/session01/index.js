@@ -14,7 +14,7 @@ function ClickButton() {
     className: "main-button",
     onClick: () => setClick(true)
   },
-    'Press Here'
+    'Click to Reveal'
   );
 }
 
