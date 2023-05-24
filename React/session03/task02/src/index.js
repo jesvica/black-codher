@@ -5,7 +5,7 @@ import Profile from './Profile';
 function App() {
   if(Profile) {
   return (
-      <Profile name="Jessica" bio="I love coding and design!" />
+      <Profile name="Jessica" bio="I love coding"/>
   );
 } else {
   return "#content";
